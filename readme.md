@@ -37,7 +37,7 @@
 ### 📌 Projetos em Destaque
 
 <a href="https://github.com/GabsPassos/analise-livros-amazon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabsPassos&repo=analise-top100-livros-amazon-2009-2021-&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabsPassos&repo=analise-livros-amazon&theme=dark" />
 </a>
 
 ---
